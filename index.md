@@ -1,5 +1,7 @@
 lab page redirection: [Lab Report 1](lab-report-1-week-2.md)
 
+alternate link: [Lab Report 1](https://vtdangg.github.io/CSE15L-LAB-REPORTS/lab-report-1-week-2.html)
+
 
 # How to Stay Hydrated
 
