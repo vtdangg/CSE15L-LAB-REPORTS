@@ -1,3 +1,6 @@
+lab page redirection: [Lab Report 1](lab-report-1-week-%202.md)
+
+
 # How to Stay Hydrated
 
 ## Dehydration Prevention
