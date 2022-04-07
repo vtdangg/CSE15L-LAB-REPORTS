@@ -16,6 +16,7 @@ Here is a reference on more rules for staying hydrated: [Article](https://www.ev
 
 ![Image](https://us.123rf.com/450wm/grgroup/grgroup1510/grgroup151003796/47061434-bottle-water-design-vector-illustration-eps10-graphic.jpg?ver=6)
 
+![Image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=1200:*)
 ```
 System.out.print("Hello World!");
 System.out.print("Stay hydrated!");
