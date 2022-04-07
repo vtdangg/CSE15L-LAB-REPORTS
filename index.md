@@ -7,13 +7,15 @@ For example, if you have a race tomorrow, you shouldn't start drinking tons of w
 
 Drinking water even when you're not thirsty or if it's a chilly day is still **essential** and quite easy to forget.
 
-Here is a reference on more rules for staying hydrated: [Link](https://www.everydayhealth.com/dehydration/prevention/)
+Here is a reference on more rules for staying hydrated: [Article](https://www.everydayhealth.com/dehydration/prevention/)
 
 ![Image](https://us.123rf.com/450wm/grgroup/grgroup1510/grgroup151003796/47061434-bottle-water-design-vector-illustration-eps10-graphic.jpg?ver=6)
 
 '''
+
 System.out.print("Hello World!");
 System.out.print("Stay hydrated!");
+
 '''
 
 
