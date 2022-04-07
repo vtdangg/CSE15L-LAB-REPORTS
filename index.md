@@ -11,11 +11,11 @@ Here is a reference on more rules for staying hydrated: [Article](https://www.ev
 
 ![Image](https://us.123rf.com/450wm/grgroup/grgroup1510/grgroup151003796/47061434-bottle-water-design-vector-illustration-eps10-graphic.jpg?ver=6)
 
-'''
+```
 
 System.out.print("Hello World!");
 System.out.print("Stay hydrated!");
 
-'''
+```
 
 
